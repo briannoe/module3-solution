@@ -2,13 +2,6 @@
     box-sizing: border-box;
 }
 
-/** HEADER **/
-#header-nav {
-  background-color: #f6b319;
-  border-radius: 0;
-  border: 0;
-}
-
 #nav-list > li {
     text-align: center;
 }
@@ -34,6 +27,7 @@ div section {
 }
 
 #header-nav .navbar-brand {
+    background-color: #f6b319;
     position: absolute;
     left: 10px;
 }
