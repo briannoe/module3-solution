@@ -32,6 +32,6 @@ div section {
     left: 10px;
 }
 
-#collapse navbar-collapse {
+#collapsable-nav .navbar-collapse {
     background-color: #951C49
 }
