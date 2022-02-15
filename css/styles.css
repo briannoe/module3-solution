@@ -27,7 +27,18 @@ div section {
 }
 
 #header-nav .navbar-brand {
-    background-color: #f6b319;
     position: absolute;
     left: 10px;
+}
+
+#header-nav .navbar-toggle:hover span.icon-bar, #header-nav .navbar-toggle:focus span.icon-bar{
+  background: #888;
+}
+
+.menu-header{
+  margin-bottom: 40px;
+}
+.menu-content{
+  background: #999999;
+  margin-bottom: 20px;
 }
